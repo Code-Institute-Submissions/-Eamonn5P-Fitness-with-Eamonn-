@@ -56,3 +56,22 @@
         background:url('images/light-dumb.jpg') no-repeat center center;
         background-size: 80%;
     }
+
+    /* Footer */
+     /* footer */
+     .social-icons {
+        text-align: center;
+   }
+
+    .social-icons > li{
+     display: inline;
+    }
+
+    .social-icons i {
+        font-size: 150%;
+        padding: 3%;
+        color: #0892D0 ;
+   }
+   
+   .social-icons  a:hover {
+    border-bottom: 1px solid  #0892D0;}
