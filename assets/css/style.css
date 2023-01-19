@@ -8,8 +8,18 @@
    body {
     font-family: "Nunito", "sans-serif";
     font-weight: 300;
-    color:  #0892D0;
-    background-color: black;
+    color:  black;
+    background-color: white;
+    }
+/* Header */
+.home {
+    height: 200px;
+    
+    width: 100%;
+}
+.page-header{
+        height: 200px;
+        
     }
 
     /* Navbar */
@@ -18,7 +28,7 @@
     }
 
     #navbar {
-        color:  #0892D0;
+    
         font-size: 115%;
         letter-spacing: 3px;
     }
@@ -36,4 +46,13 @@
     #navbar a:hover {
         box-shadow: inset 100px 0 0 0 #ADD8E6 ;
         
+    }
+
+    /* hero Image */
+
+    #hero-image {
+        height: 600px;
+        width:100%;
+        background:url('images/light-dumb.jpg') no-repeat center center;
+        background-size: 80%;
     }
