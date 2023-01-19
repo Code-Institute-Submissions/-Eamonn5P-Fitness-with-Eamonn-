@@ -10,6 +10,7 @@
     font-weight: 300;
     color:  black;
     background-color: white;
+    font-style:oblique;
     }
 /* Header */
 .home {
@@ -109,27 +110,36 @@ margin-left: 60px;
                 /* Packages */
                 #container-p{
                     background-color: white;
+                    height: 500px;
+                    
+                   
                 }
                 .packages-h{
                     display:flex;
                     align-items: center;
                  justify-content: center;
-                 margin-top: 30px;
+                 margin-top: 50px;
                 }
                 .packages-c{
                     display:flex;
-                    align-items: center;
                     justify-content: space-between;
+                    align-items: baseline;
                 }
 
+            .column-1, .column-2 ,.column-3{
+               width: 300px;
+               height: 400px;
+               background-color: #87CEEB;
+               text-align: center;
+               margin-top: 40px;
+               
+            }
             .column-1{
+                margin-left: 20px;
+            }
 
-            }
-            .column-2{
-                
-            }
             .column-3{
-                
+                margin-right:20px;
             }
 
     /* Footer */
