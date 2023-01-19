@@ -85,7 +85,8 @@
            
 
                 .box-1{
-margin-left: 60px;
+                    margin-left: 60px;
+                    font-size: 20px;
                 }
                 .box-2{
                     background-image: url('images/ocean-crop.jpeg') ;
@@ -97,15 +98,19 @@ margin-left: 60px;
                 }
                 .box-3{
                     margin-right :60px; 
+                    font-size: 20px;
                 }
                 .box-4{
                     margin-left: 60px;
+                    font-size: 20px;
                 }
                 .box-5{
-                 
+                    font-size: 20px;
                 }
                 .box-6{
                     margin-right: 60px;
+                    font-size: 20px;
+                   
                 }
                 /* Packages */
                 #container-p{
@@ -116,6 +121,7 @@ margin-left: 60px;
                 }
                 .packages-h{
                     display:flex;
+                
                     align-items: center;
                  justify-content: center;
                  margin-top: 50px;
@@ -128,7 +134,7 @@ margin-left: 60px;
 
             .column-1, .column-2 ,.column-3{
                width: 300px;
-               height: 400px;
+               height: 350px;
                background-color: #87CEEB;
                text-align: center;
                margin-top: 40px;
@@ -142,7 +148,20 @@ margin-left: 60px;
                 margin-right:20px;
             }
 
-    /* Footer */
+    /* contact */
+    #contact{
+        background-color: #87CEEB;
+        height: 250px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+                    }
+                    #email{
+                        font-size: 40px;
+                    }
+                    #phone{
+                        font-size: 40px;
+                    }
      /* footer */
      .social-icons {
         text-align: center;
