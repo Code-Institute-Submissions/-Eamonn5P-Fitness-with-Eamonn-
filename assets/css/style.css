@@ -88,8 +88,6 @@ margin-left: 60px;
 font-size: 20px;
 }
 .box-2{
-
-
 width: 400px;
 margin-right: 80px;
 padding-right: 80px;
@@ -190,7 +188,7 @@ border-radius:1px;
 
 .text-input:hover{
 border-color:rgb(202, 202, 255);}
-
+/*form*/
 #submit{
 margin-top:20px;
 border-radius:2px;
@@ -206,6 +204,11 @@ display:block;
 background-color:#fafafa;
 color:#000;
 }
+#one-session{
+    padding-top: 50px;
+margin-top: 50px;
+}
+
 
      /* footer */
 .social-icons {
