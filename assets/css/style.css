@@ -238,3 +238,15 @@ html{
    
    .social-icons  a:hover {
     border-bottom: 1px solid  #000;}
+
+    /*Gallery*/
+    .container-g {
+        display: flex;
+        }
+        
+      img {
+           
+             width: 400px;
+             padding: 20px;
+        }
+        
