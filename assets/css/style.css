@@ -168,8 +168,9 @@ clear: left;
 background: url("images/stretch.webp");
 background-size: cover;
 background-position: center;
-height: 700px;
+height: 800px;
 }
+/*code idea from love running altered*/
 #form {
 margin:150px 10% 0 0;
 color:#000;
@@ -177,7 +178,8 @@ max-width:400px;
 position:absolute;
 left:10%;
 padding:30px;
-background-color: #87CEEB;
+background-color: #87CEEB ;
+opacity: .8;
 }
 .text-input{
 background:transparent;
@@ -188,10 +190,9 @@ border:1px solid #000;
 margin:2px 0 12px;
 border-radius:1px;
 }
-/*form*/
 .text-input:hover{
-border-color:rgb(202, 202, 255);}
-
+border-color:rgb(202, 202, 255);
+}   
 #submit{
 margin-top:20px;
 border-radius:2px;
