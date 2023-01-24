@@ -102,7 +102,7 @@ background-color: white;
 height: 600px;
 }
 #span-p{
-    background-color: #87CEEB;
+background-color: #87CEEB;
 }
 .packages-h{
 display:flex;
@@ -135,8 +135,8 @@ margin-right:20px;
 }
 
     /* contact */
-#h1-c{
-font-size: 35px;
+#contact-h{
+font-size: 40px;
 }
 #contact{
 background-color: #87CEEB;
@@ -146,10 +146,10 @@ justify-content: center;
 align-items: center;
 }
 #email{
-font-size: 30px;
+font-size: 20px;
 }
 #phone{
-font-size: 30px;
+font-size: 20px;
 }
 
 /*customised code idea from love running (form)*/
@@ -233,15 +233,30 @@ width: 400px;
 padding: 20px;
 }
 /*media query (packages)*/
-@media screen and (max-width:400px) {
+@media screen and (max-width:645px) {
 .column-1, .column-2 ,.column-3{
+display: flex;
+display: block;
 width: 200px;
 height: 200px;
 background-color: #87CEEB;
 text-align: center;
 margin-top: 40px;
-font-size: 10px;}
+font-size: 20px;}
 }
+@media screen and (max-width:645px) { .packages-c{
+display:flex;
+display: block;
+margin-left: 50px;
+margin-top: 50px;
+ }
+}
+
+@media screen and (max-width:645px) { #container-p{
+background-color: white;
+height: 900px;
+}
+}           
  /*media query (about)*/
 @media screen and (max-width:400px) {
 #about {
@@ -268,8 +283,8 @@ justify-content: flex-start;
 align-items: flex-end;
 padding: 20px;
 font-size: 25px;
-             }
-            }
+}
+}
 /*media query (about)*/
 @media screen and (max-width:400px) {
 .container-g {
@@ -279,4 +294,13 @@ img {
 width: 280px;
 padding: 20px;
 }
+}
+@media screen and (max-width:400px) { #hero-image {
+    height: 350px;
+    width:100%;
+    background:url('images/light-dumb.jpg') no-repeat center center;
+    background-size: 80%;
+    margin-top: 25px;
+            
+    }
 }
