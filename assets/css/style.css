@@ -75,14 +75,17 @@ margin-top: 25px;
 }
 .about-h{
     display:flex;
-    font-size: 30px;
+    font-size: 50px;
     align-items: center;
     justify-content: center;
     margin-top: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 #span-a{
     background-color: #000;
     color: #87CEEB;
+    
 }
  .box-1, .box-2, .box-3, .box-4, .box-5, .box-6{
     display: flex;
@@ -96,7 +99,7 @@ margin-top: 25px;
                 /* Packages */
 #container-p{
 background-color: white;
-height: 500px;
+height: 600px;
 }
 #span-p{
     background-color: #87CEEB;
@@ -106,12 +109,13 @@ display:flex;
 font-size: 30px;
 align-items: center;
 justify-content: center;
-margin-top: 50px;
+margin-top: 120px;
 }
 .packages-c{
 display:flex;
 justify-content: space-between;
 align-items: baseline;
+margin-top: 50px;
 }
 
 .column-1, .column-2 ,.column-3{
@@ -228,5 +232,41 @@ img {
 width: 400px;
 padding: 20px;
 }
-        /*media query*/
-      
+        /*media query (packages)*/
+      @media screen and (max-width:400px) {
+        .column-1, .column-2 ,.column-3{
+            width: 200px;
+            height: 200px;
+            background-color: #87CEEB;
+            text-align: center;
+            margin-top: 40px;
+            font-size: 10px;}
+            }
+ /*media query (about)*/
+            @media screen and (max-width:400px) {
+            #about {
+                background-color: #87CEEB;
+                height: 800px;
+                display: flex;
+                display: block;
+                margin-top: 30px;
+            }
+            .about-h{
+                display:flex;
+                font-size: 30px;
+                align-items: center;
+                justify-content: center;
+                margin-top: 50px;
+            }
+            #span-a{
+                background-color: #000;
+                color: #87CEEB;
+            }
+             .box-1, .box-2, .box-3, .box-4, .box-5, .box-6{
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-end;
+                padding: 20px;
+                font-size: 25px;
+             }
+            }
