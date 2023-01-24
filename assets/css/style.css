@@ -228,6 +228,11 @@ footer{
 }
 
     /*Gallery*/
+#gall-h{
+text-align: center;
+padding: 50px;
+font-size: 35px;
+    }
 .container-g {
 display: flex;
 }
