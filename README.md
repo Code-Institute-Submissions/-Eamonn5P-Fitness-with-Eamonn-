@@ -36,12 +36,12 @@ Icons are used to match the statements.
 
 ![Packages](assets/css/images/packages-readme.png)
 
-<h1>Contact</h1>
+<h2>Contact</h2>
 <p>The Contact section is a simple banner which show the potential client the business email address and phone number.</p>
 
 ![Contact](assets/css/images/contact.png)
 
-<h1>Choose Your Package</h1>
+<h2>Choose Your Package</h2>
 <p>The choose your package section gives the customer the option of selecting a specific package.</p>
 <p>You can enter your name and email address</p>
 <p>You are then given three options</p>
@@ -51,5 +51,30 @@ Icons are used to match the statements.
 <li>Three Months</li>
 </ul>
 <p>Once selected you can click on the submit button and you selection is sent to the business</p>
+
+![CYP](assets/css/images/CYP.png)
+
+<h2>Footer</h2>
+<p>The footer is located on the bottom of all peges of the website.</p>
+<p>It contains a row of social media icons which when clicked will bring you the website clicked.</p>
+<p>The Icons consist of:</p>
+<ul>
+<li>Facebook</li>
+<li>Instagram</li>
+<li>Twitter</li>
+<li>Youtube</li>
+</ul>
+
+![Footer](assets/css/images/Footer.png)
+
+<h2>Gallery</h2>
+<ul>
+<li>The Gallery has its own page with the same Header and Footer.</li>
+<li>It consists of 9 Images which shows Personal Trainers and Clients working out.</li>
+<li>This page give a custumer a feel for the atmosphere they can expect.</li>
+</ul>
+
+![gallery](assets/css/images/galleryread.png)
+
 
 
