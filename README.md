@@ -6,7 +6,7 @@ This is a Personal Training website. You can find here details about the persona
 
 <h1>Features</h1>
 <h2>Header</h2>
-<p>The header shows the name of the Personal Training business with use of a colur comination and font style which will feature througout the website</p>
+<p>The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website</p>
 <h2>Navbar</h2>
 <p>The Navbar is located just below the header and consists of a Home, About, Gallery and Contact Icon. These change colour when hovered over and bring you to that specific section of the website when clicked.</p>
 
@@ -36,15 +36,15 @@ Icons are used to match the statements.
 <hr>
 
 <h2>Packages</h2>
-<p>The Packages section shows the potential client of the packages available and the specific costs.</p>
-<p>Each package is displayed in its own column wth the consistant colour scheme of the website contasting the columns.</p>
+<p>The Packages section shows the potential client; the packages available and the specific costs.</p>
+<p>Each package is displayed in its own column wth the consistant colour scheme of the website contrasting the columns.</p>
 
 ![Packages](assets/css/images/packages-readme.png)
 
 <hr>
 
 <h2>Contact</h2>
-<p>The Contact section is a simple banner which show the potential client the business email address and phone number.</p>
+<p>The Contact section is a simple banner which show the potential client, the business email address and phone number.</p>
 
 ![Contact](assets/css/images/contact.png)
 
@@ -59,14 +59,14 @@ Icons are used to match the statements.
 <li>One Month</li>
 <li>Three Months</li>
 </ul>
-<p>Once selected you can click on the submit button and you selection is sent to the business</p>
+<p>Once selected, you can click on the submit button and your selection is sent to the business</p>
 
 ![CYP](assets/css/images/CYP.png)
 
 <hr>
 
 <h2>Footer</h2>
-<p>The footer is located on the bottom of all peges of the website.</p>
+<p>The footer is located on the bottom of all pages of the website.</p>
 <p>It contains a row of social media icons which when clicked will bring you the website clicked.</p>
 <p>The Icons consist of:</p>
 <ul>
@@ -84,7 +84,7 @@ Icons are used to match the statements.
 <ul>
 <li>The Gallery has its own page with the same Header and Footer.</li>
 <li>It consists of 9 Images which shows Personal Trainers and Clients working out.</li>
-<li>This page give a custumer a feel for the atmosphere they can expect.</li>
+<li>This page give a customer a feel for the atmosphere they can expect.</li>
 </ul>
 
 ![gallery](assets/css/images/galleryread.png)
@@ -110,12 +110,41 @@ Icons are used to match the statements.
 
 <h1>Validator Testing</h1>
 <ul>
-<li><h2>HTML</h2><p>No errors returned when passed through the official W3C Validator</p></li>
-<li><h2>CSS</h2><p>No errors returned when passed through the official (Jigsaw) Validator</p></li>
+<li><h2>HTML</h2><p>No errors returned when passed through the official W3C Validator.</p></li>
+<li><h2>CSS</h2><p>No errors returned when passed through the official (Jigsaw) Validator.</p></li>
 </ul>
 
 ![css](assets/css/images/cssvalid.png)
 
 ![html](assets/css/images/htmlvalid.png)
 
+<hr>
 
+<h1>Accessibility</h1>
+<p>I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. </p>
+
+![mob](assets/css/images/mobileperform.png)
+
+![desk](assets/css/images/deskperform.png)
+
+<hr>
+
+<h1>Unfixed Bugs</h1>
+<ul>
+<li>No unfixed bugs</li>
+</ul>
+
+<hr>
+
+<h1>Deployment</h1>
+<p>The Site was deployed to GitHub Pages. The steps to deploy are as follows:</p>
+<ol>
+<li>In the github repository, navigate to the settings tab.</li>
+<li>From the source drop-down menu select the master branch.</li>
+<li>Once the master branch was selected the page provided the link to the completed website.</li>
+</ol>
+<p>The live link can be found here - https://eamonn5p.github.io/Fitness-with-Eamonn-/</p>
+
+<h2>Credits</h2>
+<p>The code used for the form was customized from the Love Running (Code Institute) website </p>
+<p>All Images used on this website were sourced from Pexels @ https://www.pexels.com/</p>
