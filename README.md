@@ -111,13 +111,17 @@ Icons are used to match the statements.
 
 <h1>Validator Testing</h1>
 <ul>
-<li><h2>HTML</h2><p>No errors returned when passed through the official W3C Validator.</p></li>
-<li><h2>CSS</h2><p>No errors returned when passed through the official (Jigsaw) Validator.</p></li>
+<li><h2>HTML</h2><p>No errors returned when passed through the official W3C Validator. <a href="https://validator.w3.org/#validate_by_input" rel="nofollow">W3C Markup Validator</a></p></li>
+<li><h2>CSS</h2><p>No errors returned when passed through the official (Jigsaw) Validator. <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" rel="nofollow">W3C CSS Validator</a></p></li>
 </ul>
+
+
 
 ![css](assets/css/images/cssvalid.png)
 
 ![html](assets/css/images/htmlvalid.png)
+
+![gallery](assets/css/images/galleryhtmlvalid.png)
 
 <hr>
 
@@ -144,7 +148,7 @@ Icons are used to match the statements.
 <li>From the source drop-down menu select the master branch.</li>
 <li>Once the master branch was selected the page provided the link to the completed website.</li>
 </ol>
-<p>The live link can be found here - https://eamonn5p.github.io/Fitness-with-Eamonn-/</p>
+<p>The live link can be found here - <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a></p>
 
 <h2>Credits</h2>
 <p>The code used for the form was customized from the Love Running (Code Institute) website </p>
