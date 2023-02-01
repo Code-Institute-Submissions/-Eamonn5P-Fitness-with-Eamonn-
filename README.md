@@ -145,7 +145,7 @@ Icons are used to match the statements.
 <hr>
 
 <h1>Accessibility</h1>
-<p>I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. </p>
+<p>I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. <a href="https://pagespeed.web.dev/" rel="nofollow">Click Here</a></p>
 
 ![mob](assets/css/images/mobileperform.png)
 
@@ -174,4 +174,7 @@ Icons are used to match the statements.
 <p>All Images used on this website were sourced from Pexels @ https://www.pexels.com/</p>
 
 <h2>Acknowledgements</h2>
-<p>My Mentor for feedback</p>
+<ul>
+<li>My Mentor for feedback.</li>
+<li>Slack Community for help with problem solving.</li>
+</ul>
