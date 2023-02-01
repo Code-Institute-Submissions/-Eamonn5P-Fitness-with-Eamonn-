@@ -102,10 +102,14 @@ Icons are used to match the statements.
 
 <H2>Frameworks, Libraries & Programs Used</H2>
 <ul>
-<li>Flexbox</li>
-<li>Hover.css:
-Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.</li>
+<li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" rel="nofollow">Flexbox:</a> Flexbox was used for responsiveness and to add structure to the website.</li>
+<li><a href="https://ianlunn.github.io/Hover/" rel="nofollow">Hover.css:</a> Hover.css was used on the Navbar, Form and Social Media icons in the footer to change colour and underline while being hovered over.</li>
+<li><a href="https://fonts.google.com/" rel="nofollow">Google Fonts:</a> Google fonts were used to import the 'Nunito' and 'PT Sans' font into the style.css file which is used on all pages throughout the project.</li>
+<li><a href="https://git-scm.com/" rel="nofollow">Git:</a> Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
+<li><a href="https://github.com/" rel="nofollow">GitHub:</a> GitHub is used to store the projects code after being pushed from Git.</li>
 </ul>
+
+<hr>
 
 <h2>Testing</h2>
 <ul>
