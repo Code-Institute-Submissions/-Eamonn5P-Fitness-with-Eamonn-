@@ -92,6 +92,21 @@ Icons are used to match the statements.
 
 <hr>
 
+<h2>Technologies Used</h2>
+<ul>
+<li>HTML-5</li>
+<li>CSS-3</li>
+</ul>
+
+<HR>
+
+<H2>Frameworks, Libraries & Programs Used</H2>
+<ul>
+<li>Flexbox</li>
+<li>Hover.css:
+Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.</li>
+</ul>
+
 <h2>Testing</h2>
 <ul>
 <li>The website was tested in different browers such as Chrome, Firefox and Safari.</li>
@@ -153,3 +168,6 @@ Icons are used to match the statements.
 <h2>Credits</h2>
 <p>The code used for the form was customized from the Love Running (Code Institute) website </p>
 <p>All Images used on this website were sourced from Pexels @ https://www.pexels.com/</p>
+
+<h2>Acknowledgements</h2>
+<p>My Mentor for feedback</p>
