@@ -1,4 +1,4 @@
-# Fitness with Eamonn <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view the live Project.</a>
+# Fitness with Eamonn [Click here to view the live Project.](https://eamonn5p.github.io/Fitness-with-Eamonn-/) 
 
 
 This is a Personal Training website. You can find here details about the personal trainers qualifications, what packages are on offer, communication details, social media links, a gallery of images relating to the service and a tool to submit what package you would like to purchase.
@@ -153,7 +153,8 @@ The reason for this was I had the same href as on the Main html page, I had to c
 <hr>
 
 # Accessibility
-I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. <a href="https://pagespeed.web.dev/" rel="nofollow">Click Here</a>
+I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. [Click here to view live Project.]
+ [Click here to view live Project.]("https://pagespeed.web.dev/")
 
 ![mob](assets/css/images/mobileperform.png)
 
