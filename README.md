@@ -92,6 +92,13 @@ Icons are used to match the statements.
 
 <hr>
 
+<h2>Wireframes</h2>
+<p>A simple pen and paper wireframe was used used as a guide to structure the website</p>
+
+![wire-home](assets/css/images/wire-1.jpg)
+
+![wire-gall](assets/css/images/wire-2.jpg)
+
 <h2>Technologies Used</h2>
 <ul>
 <li>HTML-5</li>
@@ -107,6 +114,7 @@ Icons are used to match the statements.
 <li><a href="https://fonts.google.com/" rel="nofollow">Google Fonts:</a> Google fonts were used to import the 'Nunito' and 'PT Sans' font into the style.css file which is used on all pages throughout the project.</li>
 <li><a href="https://git-scm.com/" rel="nofollow">Git:</a> Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
 <li><a href="https://github.com/" rel="nofollow">GitHub:</a> GitHub is used to store the projects code after being pushed from Git.</li>
+<li><a href="https://fontawesome.com/" rel="nofollow">Font Awesome:</a> Font Awesome was used for icons on the About section and for social media icons on the footer.</li>
 </ul>
 
 <hr>
