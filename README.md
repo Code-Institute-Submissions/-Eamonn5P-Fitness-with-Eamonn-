@@ -244,7 +244,6 @@ Making a local Clone.
 <hr>
 
 ## Credits
-
 - The code used for the form was customized from the Love Running (Code Institute) website.
 - All Images used on this website were sourced from Pexels at https://www.pexels.com/.
 
