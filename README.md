@@ -1,29 +1,29 @@
-<h1>Fitness with Eamonn <p><a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view the live Project.</a></p></h1>
+# Fitness with Eamonn <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view the live Project.</a>
 
 
 This is a Personal Training website. You can find here details about the personal trainers qualifications, what packages are on offer, communication details, social media links, a gallery of images relating to the service and a tool to submit what package you would like to purchase.
 
 ![responsive-image](assets/css/images/responsive.png)
 
-<h1>Features</h1>
-<h2>Header</h2>
-<p>The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website</p>
-<h2>Navbar</h2>
-<p>The Navbar is located just below the header and consists of a Home, About, Gallery and Contact Icon. These change colour when hovered over and bring you to that specific section of the website when clicked.</p>
+# Features
+## Header
+The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website
+## Navbar
+The Navbar is located just below the header and consists of a Home, About, Gallery and Contact Icon. These change colour when hovered over and bring you to that specific section of the website when clicked.<
 
 ![header/navbar-image](assets/css/images/header.png)
 
 <hr>
 
-<h1>Hero Image</h1>
-<p>For the Hero image, there is a nice minimalistic photo of Dumbells and a Welcome header welcoming customers to the website.</p>
+# Hero Image
+For the Hero image, there is a nice minimalistic photo of Dumbells and a Welcome header welcoming customers to the website.
 
 ![hero](assets/css/images/hero-read.png)
 
 <hr>
 
-<h2>About</h2>
-<p>The About section informs potential clients about the Qualifications and Certifications of the Personal Trainer and what he specialises in. Such as:</p>
+# About
+The About section informs potential clients about the Qualifications and Certifications of the Personal Trainer and what he specialises in. Such as:
 <ul>
 <li>Being recognised by the fitness industry through REPS</li>
 <li>That he is First Aid Trained</li>
@@ -36,40 +36,40 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Packages</h2>
-<p>The Packages section shows the potential client; the packages available and the specific costs.</p>
-<p>Each package is displayed in its own column wth the consistant colour scheme of the website contrasting the columns.</p>
+## Packages
+The Packages section shows the potential client; the packages available and the specific costs.
+Each package is displayed in its own column wth the consistant colour scheme of the website contrasting the columns.
 
 ![Packages](assets/css/images/packages-readme.png)
 
 <hr>
 
-<h2>Contact</h2>
-<p>The Contact section is a simple banner which show the potential client, the business email address and phone number.</p>
+## Contact
+The Contact section is a simple banner which show the potential client, the business email address and phone number.
 
 ![Contact](assets/css/images/contact.png)
 
 <hr>
 
-<h2>Choose Your Package</h2>
-<p>The choose your package section gives the customer the option of selecting a specific package.</p>
-<p>You can enter your name and email address</p>
-<p>You are then given three options</p>
+## Choose Your Package
+The choose your package section gives the customer the option of selecting a specific package.
+You can enter your name and email address
+You are then given three options
 <ul>
 <li>One Session</li>
 <li>One Month</li>
 <li>Three Months</li>
 </ul>
-<p>Once selected, you can click on the submit button and your selection is sent to the business</p>
+Once selected, you can click on the submit button and your selection is sent to the business.
 
 ![CYP](assets/css/images/CYP.png)
 
 <hr>
 
-<h2>Footer</h2>
-<p>The footer is located on the bottom of all pages of the website.</p>
-<p>It contains a row of social media icons which when clicked will bring you the website clicked.</p>
-<p>The Icons consist of:</p>
+## Footer
+The footer is located on the bottom of all pages of the website.
+It contains a row of social media icons which when clicked will bring you the website clicked.
+The Icons consist of:
 <ul>
 <li>Facebook</li>
 <li>Instagram</li>
@@ -81,7 +81,7 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Gallery</h2>
+## Gallery
 <ul>
 <li>The Gallery has its own page with the same Header and Footer.</li>
 <li>It consists of 9 Images which shows Personal Trainers and Clients working out.</li>
@@ -92,14 +92,14 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Wireframes</h2>
-<p>A simple pen and paper wireframe was used used as a guide to structure the website</p>
+## Wireframes
+A simple pen and paper wireframe was used used as a guide to structure the website.
 
 ![wire-home](assets/css/images/wire-1.jpg)
 
 ![wire-gall](assets/css/images/wire-2.jpg)
 
-<h2>Technologies Used</h2>
+## Technologies Used
 <ul>
 <li>HTML-5</li>
 <li>CSS-3</li>
@@ -107,7 +107,7 @@ Icons are used to match the statements.
 
 <HR>
 
-<H2>Frameworks, Libraries & Programs Used</H2>
+## Frameworks, Libraries & Programs Used
 <ul>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" rel="nofollow">Flexbox:</a> Flexbox was used for responsiveness and to add structure to the website.</li>
 <li><a href="https://ianlunn.github.io/Hover/" rel="nofollow">Hover.css:</a> Hover.css was used on the Navbar, Form and Social Media icons in the footer to change colour and underline while being hovered over.</li>
@@ -119,7 +119,7 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Testing</h2>
+## Testing
 <ul>
 <li>The website was tested in different browers such as Chrome, Firefox and Safari.</li>
 <li>I checked the website was responsive on all standard screens and looks professional by using devtools on Chrome and https://ui.dev/amiresponsive.</li>
@@ -129,10 +129,10 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Bugs</h2>
-<h3>Solved Bugs</h3>
-<p>When I created the Gallery Page, the links for About and Contact were not working on the Navbar.</p>
-<p>The reason for this was I had the same href as on the Main html page, I had to change the href to link it to the Home page.</p>
+## Bugs
+### Solved Bugs
+When I created the Gallery Page, the links for About and Contact were not working on the Navbar.
+The reason for this was I had the same href as on the Main html page, I had to change the href to link it to the Home page.
 
 <hr>
 
@@ -152,8 +152,8 @@ Icons are used to match the statements.
 
 <hr>
 
-<h1>Accessibility</h1>
-<p>I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. <a href="https://pagespeed.web.dev/" rel="nofollow">Click Here</a></p>
+# Accessibility
+I confirmed the website is easy to read, accessible and high performing by running it through PageSpeed Insights. <a href="https://pagespeed.web.dev/" rel="nofollow">Click Here</a>
 
 ![mob](assets/css/images/mobileperform.png)
 
@@ -161,25 +161,25 @@ Icons are used to match the statements.
 
 <hr>
 
-<h1>Unfixed Bugs</h1>
+## Unfixed Bugs
 <ul>
 <li>No unfixed bugs</li>
 </ul>
 
 <hr>
 
-<h1>Deployment</h1>
-<h2>GitHub Pages</h2>
-<p>The Site was deployed to GitHub Pages. The steps to deploy are as follows:</p>
+# Deployment
+## GitHub Pages
+The Site was deployed to GitHub Pages. The steps to deploy are as follows:
 <ol>
 <li>In the github repository, navigate to the settings tab.</li>
 <li>From the source drop-down menu select the master branch.</li>
 <li>Once the master branch was selected the page provided the link to the completed website.</li>
 </ol>
-<p>The live link can be found here - <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a></p>
+The live link can be found here - <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a>
 
-<h2>Clone</h2>
-<p>Making a local Clone</p>
+# Clone
+Making a local Clone
 <ol>
 <li>Log in to GitHub and locate the GitHub Repository</li>
 <li>Click on "Code" and the click "Clone" and copy the HTTPS URL</li>
@@ -190,11 +190,14 @@ Icons are used to match the statements.
 
 <hr>
 
-<h2>Credits</h2>
-<p>The code used for the form was customized from the Love Running (Code Institute) website </p>
-<p>All Images used on this website were sourced from Pexels @ https://www.pexels.com/</p>
+## Credits
+<ul>
+<li>The code used for the form was customized from the Love Running (Code Institute) website.</li>
+<li>All Images used on this website were sourced from Pexels @ https://www.pexels.com/.</li>
+</ul>
 
-<h2>Acknowledgements</h2>
+
+## Acknowledgements
 <ul>
 <li>My Mentor for feedback.</li>
 <li>Slack Community for help with problem solving.</li>
