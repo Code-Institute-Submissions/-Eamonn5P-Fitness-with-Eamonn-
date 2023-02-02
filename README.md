@@ -24,12 +24,12 @@ For the Hero image, there is a nice minimalistic photo of Dumbells and a Welcome
 
 # About
 The About section informs potential clients about the Qualifications and Certifications of the Personal Trainer and what he specialises in. Such as:
-<ul>
-<li>Being recognised by the fitness industry through REPS</li>
-<li>That he is First Aid Trained</li>
-<li>He specialises in Fat Loss and Muscle Building</li>
-<li>He can design a personal program expertly</li>
-</ul>
+
+- Being recognised by the fitness industry through REPS.
+- That he is First Aid Trained.
+- He specialises in Fat Loss and Muscle Building.
+- He can design a personal program expertly
+
 Icons are used to match the statements.
 
 ![About](assets/css/images/aboutreadme.png)
@@ -55,11 +55,11 @@ The Contact section is a simple banner which show the potential client, the busi
 The choose your package section gives the customer the option of selecting a specific package.
 You can enter your name and email address
 You are then given three options
-<ul>
-<li>One Session</li>
-<li>One Month</li>
-<li>Three Months</li>
-</ul>
+
+- One Session
+- One Month
+- Three Months
+
 Once selected, you can click on the submit button and your selection is sent to the business.
 
 ![CYP](assets/css/images/CYP.png)
@@ -70,23 +70,23 @@ Once selected, you can click on the submit button and your selection is sent to 
 The footer is located on the bottom of all pages of the website.
 It contains a row of social media icons which when clicked will bring you the website clicked.
 The Icons consist of:
-<ul>
-<li>Facebook</li>
-<li>Instagram</li>
-<li>Twitter</li>
-<li>Youtube</li>
-</ul>
+
+- Facebook
+- Instagram
+- Twitter
+- Youtube
+
 
 ![Footer](assets/css/images/Footer.png)
 
 <hr>
 
 ## Gallery
-<ul>
-<li>The Gallery has its own page with the same Header and Footer.</li>
-<li>It consists of 9 Images which shows Personal Trainers and Clients working out.</li>
-<li>This page give a customer a feel for the atmosphere they can expect.</li>
-</ul>
+
+- The Gallery has its own page with the same Header and Footer.
+- It consists of 9 Images which shows Personal Trainers and Clients working out.
+- This page give a customer a feel for the atmosphere they can expect.
+
 
 ![gallery](assets/css/images/galleryread.png)
 
@@ -100,32 +100,32 @@ A simple pen and paper wireframe was used used as a guide to structure the websi
 ![wire-gall](assets/css/images/wire-2.jpg)
 
 ## Technologies Used
-<ul>
-<li>HTML-5</li>
-<li>CSS-3</li>
-</ul>
+
+- HTML-5
+- CSS-3
+
 
 <HR>
 
 ## Frameworks, Libraries & Programs Used
-<ul>
-<li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" rel="nofollow">Flexbox:</a> Flexbox was used for responsiveness and to add structure to the website.</li>
-<li><a href="https://ianlunn.github.io/Hover/" rel="nofollow">Hover.css:</a> Hover.css was used on the Navbar, Form and Social Media icons in the footer to change colour and underline while being hovered over.</li>
-<li><a href="https://fonts.google.com/" rel="nofollow">Google Fonts:</a> Google fonts were used to import the 'Nunito' and 'PT Sans' font into the style.css file which is used on all pages throughout the project.</li>
-<li><a href="https://git-scm.com/" rel="nofollow">Git:</a> Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
-<li><a href="https://github.com/" rel="nofollow">GitHub:</a> GitHub is used to store the projects code after being pushed from Git.</li>
-<li><a href="https://fontawesome.com/" rel="nofollow">Font Awesome:</a> Font Awesome was used for icons on the About section and for social media icons on the footer.</li>
-</ul>
+
+- [Flexbox:](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) Flexbox was used for responsiveness and to add structure to the website.
+- [Hover.css:](https://ianlunn.github.io/Hover/) Hover.css was used on the Navbar, Form and Social Media icons in the footer to change colour and underline while being hovered over.
+- [Google Fonts:](https://fonts.google.com/) Google fonts were used to import the 'Nunito' and 'PT Sans' font into the style.css file which is used on all pages throughout the project.
+- [Git:](https://git-scm.com/) Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- [GitHub:](https://github.com/)GitHub is used to store the projects code after being pushed from Git.
+- [Font Awesome:](https://fontawesome.com/)Font Awesome was used for icons on the About section and for social media icons on the footer.
+
 
 <hr>
 
 ## Testing
-<ul>
-<li>The website was tested in different browers such as Chrome, Firefox and Safari.</li>
-<li>I checked the website was responsive on all standard screens and looks professional by using devtools on Chrome and https://ui.dev/amiresponsive.</li>
-<li>I have confirmed that the form works perfectly, it requires entries in every box and requires email and the Submit button works confirming the user has made a submission.</li>
-<li>I confirmed all information text on the website is clear and easy to see and understand</li>
-</ul>
+
+- The website was tested in different browers such as Chrome, Firefox and Safari.
+- I checked the website was responsive on all standard screens and looks professional by using devtools on Chrome and https://ui.dev/amiresponsive.
+- I have confirmed that the form works perfectly, it requires entries in every box and requires email and the Submit button works confirming the user has made a submission.
+- I confirmed all information text on the website is clear and easy to see and understand.
+
 
 <hr>
 
@@ -136,11 +136,13 @@ The reason for this was I had the same href as on the Main html page, I had to c
 
 <hr>
 
-<h1>Validator Testing</h1>
-<ul>
-<li><h2>HTML</h2><p>No errors returned when passed through the official W3C Validator. <a href="https://validator.w3.org/#validate_by_input" rel="nofollow">W3C Markup Validator</a></p></li>
-<li><h2>CSS</h2><p>No errors returned when passed through the official (Jigsaw) Validator. <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" rel="nofollow">W3C CSS Validator</a></p></li>
-</ul>
+# Validator Testing
+
+- ## HTML 
+No errors returned when passed through the official W3C Validator. [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+- ## CSS
+No errors returned when passed through the official (Jigsaw) Validator. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
 
 
 
@@ -163,43 +165,42 @@ I confirmed the website is easy to read, accessible and high performing by runni
 <hr>
 
 ## Unfixed Bugs
-<ul>
-<li>No unfixed bugs</li>
-</ul>
+
+- No unfixed bugs.
+
 
 <hr>
 
 # Deployment
 ## GitHub Pages
 The Site was deployed to GitHub Pages. The steps to deploy are as follows:
-<ol>
-<li>In the github repository, navigate to the settings tab.</li>
-<li>From the source drop-down menu select the master branch.</li>
-<li>Once the master branch was selected the page provided the link to the completed website.</li>
-</ol>
-The live link can be found here - <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a>
+
+1. In the github repository, navigate to the settings tab.
+2. From the source drop-down menu select the master branch.
+3. Once the master branch was selected the page provided the link to the completed website.
+
+The live link can be found here - [Click here to view live Project.](https://eamonn5p.github.io/Fitness-with-Eamonn-/)
 
 # Clone
 Making a local Clone
-<ol>
-<li>Log in to GitHub and locate the GitHub Repository</li>
-<li>Click on "Code" and the click "Clone" and copy the HTTPS URL</li>
-<li>Open Gitpod</li>
-<li>In the terminal type git clone and the paste the URL</li>
-<li>Press Enter and your clone will be created</li>
-</ol>
+
+1. Log in to GitHub and locate the GitHub Repository.
+2. Click on "Code" and the click "Clone" and copy the HTTPS URL.
+3. Open Gitpod.
+4. In the terminal type git clone and the paste the URL.
+5. Press Enter and your clone will be created.
+
 
 <hr>
 
 ## Credits
-<ul>
-<li>The code used for the form was customized from the Love Running (Code Institute) website.</li>
-<li>All Images used on this website were sourced from Pexels @ https://www.pexels.com/.</li>
-</ul>
+
+- The code used for the form was customized from the Love Running (Code Institute) website.
+- All Images used on this website were sourced from Pexels @ https://www.pexels.com/.
+
 
 
 ## Acknowledgements
-<ul>
-<li>My Mentor for feedback.</li>
-<li>Slack Community for help with problem solving.</li>
-</ul>
+
+- My Mentor for feedback.
+- Slack Community for help with problem solving.
