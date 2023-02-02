@@ -1,4 +1,4 @@
-<h1>Fitness with Eamonn <p><a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a></p></h1>
+<h1>Fitness with Eamonn <p><a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view the live Project.</a></p></h1>
 
 
 This is a Personal Training website. You can find here details about the personal trainers qualifications, what packages are on offer, communication details, social media links, a gallery of images relating to the service and a tool to submit what package you would like to purchase.
@@ -161,6 +161,7 @@ Icons are used to match the statements.
 <hr>
 
 <h1>Deployment</h1>
+<h2>GitHub Pages</h2>
 <p>The Site was deployed to GitHub Pages. The steps to deploy are as follows:</p>
 <ol>
 <li>In the github repository, navigate to the settings tab.</li>
@@ -168,6 +169,18 @@ Icons are used to match the statements.
 <li>Once the master branch was selected the page provided the link to the completed website.</li>
 </ol>
 <p>The live link can be found here - <a href="https://eamonn5p.github.io/Fitness-with-Eamonn-/" rel="nofollow">Click here to view live Project.</a></p>
+
+<h2>Clone</h2>
+<p>Making a local Clone</p>
+<ol>
+<li>Log in to GitHub and locate the GitHub Repository</li>
+<li>Click on "Code" and the click "Clone" and copy the HTTPS URL</li>
+<li>Open Gitpod</li>
+<li>In the terminal type git clone and the paste the URL</li>
+<li>Press Enter ant your clone will be created</li>
+</ol>
+
+<hr>
 
 <h2>Credits</h2>
 <p>The code used for the form was customized from the Love Running (Code Institute) website </p>
