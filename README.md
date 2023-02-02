@@ -5,7 +5,33 @@ This is a Personal Training website. You can find here details about the persona
 
 ![responsive-image](assets/css/images/responsive.png)
 
+# User Experience (UX)
+##  User stories
+### First Time Visitor Goals
+- As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+- As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
+
+Returning Visitor Goals
+- As a Returning Visitor, I want to find information about deals and packages.
+- As a Returning Visitor, I want to find the best way to get in contact with the business with any questions I may have.
+
+
 # Features
+- Responsive on all devices.
+- Interactive elements.
+
+## Design
+Color scheme
+- Light Blue, white and Black.
+
+Font Style
+- Nunito, PT San.
+
+Imagery
+- Gym equipment/fitness related.
+
 ## Header
 The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website
 ## Navbar
@@ -119,7 +145,31 @@ A simple pen and paper wireframe was used used as a guide to structure the websi
 
 <hr>
 
-## Testing
+# Testing
+
+## Testing User Stories from User Experience (UX) Section
+### First Time Visitor Goals
+- As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+1. When entering the site, the user is  greeted with a clear readable navigation bar to go to the section or page of their choice. Underneath there is a Hero Image with an about section underneath explaininin the business.
+2. The user has two options, click on the navbar links or scroll down, both will lead to the same place, to learn more about the business.
+
+- As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+1. The site has been designed to be easily navigated. There is a clearly placed navigation bar at the top of the page, each link clearly describes what section or page they will end up at.
+2. At the top of both pages there is a navbar to ensure the user always has somewhere to go and Social links at the bottom so the user doesn't feel trapped as they get to the bottom of the page.
+
+- As a First Time Visitor, I want to research how the business is percieved by previous clients.
+1. The user can locate social media links in the footer of all pages.
+
+### Returning User Goals
+- As a returning user, I want to see if there are new packages available
+1. All Packages are clearly defined in package section.
+
+- As a returning user, I want immediate contact information.
+1. The Navbar will bring you directly to the contact section with phone and email clearly listed.
+2. Alternatively Social Media links are listed in the footer of all pages of the website.
+
+
+<hr>
 
 - The website was tested in different browers such as Chrome, Firefox and Safari.
 - I checked the website was responsive on all standard screens and looks professional by using devtools on Chrome and https://ui.dev/amiresponsive.
