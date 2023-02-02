@@ -33,7 +33,7 @@ Imagery
 - Gym equipment/fitness related.
 
 ## Header
-The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website
+The header shows the name of the Personal Training business with use of a colour comination and font style which will feature throughout the website.
 ## Navbar
 The Navbar is located just below the header and consists of a Home, About, Gallery and Contact Icon. These change colour when hovered over and bring you to that specific section of the website when clicked.<
 
@@ -232,7 +232,7 @@ The Site was deployed to GitHub Pages. The steps to deploy are as follows:
 The live link can be found here - [Click here to view live Project.](https://eamonn5p.github.io/Fitness-with-Eamonn-/)
 
 # Clone
-Making a local Clone
+Making a local Clone.
 
 1. Log in to GitHub and locate the GitHub Repository.
 2. Click on "Code" and the click "Clone" and copy the HTTPS URL.
@@ -246,7 +246,7 @@ Making a local Clone
 ## Credits
 
 - The code used for the form was customized from the Love Running (Code Institute) website.
-- All Images used on this website were sourced from Pexels @ https://www.pexels.com/.
+- All Images used on this website were sourced from Pexels at https://www.pexels.com/.
 
 
 
