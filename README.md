@@ -177,7 +177,7 @@ Icons are used to match the statements.
 <li>Click on "Code" and the click "Clone" and copy the HTTPS URL</li>
 <li>Open Gitpod</li>
 <li>In the terminal type git clone and the paste the URL</li>
-<li>Press Enter ant your clone will be created</li>
+<li>Press Enter and your clone will be created</li>
 </ol>
 
 <hr>
